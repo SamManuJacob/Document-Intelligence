@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "input_documents": [
+            "pdfs/South of France - Cities.pdf",
+            "pdfs/South of France - Cuisine.pdf",
+            "pdfs/South of France - History.pdf",
+            "pdfs/South of France - Restaurants and Hotels.pdf",
+            "pdfs/South of France - Things to Do.pdf",
+            "pdfs/South of France - Tips and Tricks.pdf",
+            "pdfs/South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-28T00:52:17.017014"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 1,
+            "section_title": "",
+            "importance_rank": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 8,
+            "section_title": "\u2022 \nRoll Your Clothes: Save space and reduce wrinkles.",
+            "importance_rank": 2
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "page_number": 4,
+            "section_title": "Gadgets and Accessories",
+            "importance_rank": 3
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page_number": 9,
+            "section_title": "Aerospace Industry",
+            "importance_rank": 4
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page_number": 2,
+            "section_title": "Travel Tips",
+            "importance_rank": 5
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page_number": 9,
+            "section_title": "Educational Experiences",
+            "importance_rank": 6
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page_number": 2,
+            "section_title": "Water Sports",
+            "importance_rank": 7
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "page_number": 9,
+            "section_title": "Family-Friendly Hotels",
+            "importance_rank": 8
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "page_number": 10,
+            "section_title": "Student Life",
+            "importance_rank": 9
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "page_number": 5,
+            "section_title": "Cooking Classes",
+            "importance_rank": 10
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": " The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing, \nPlanning, and Exploring",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": " \u2022 \nPack Dual-Purpose Items: Choose items that serve multiple purposes. \u2022 \nWear Bulky Items: Wear bulky items like coats or boots during travel to save suitcase \nspace.",
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Consider using a luggage scale to avoid overweight baggage \nfees.",
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": " \u2022 \nElectronics: Smartphone, charger, power bank, and other devices. \u2022 \nAdditional Tips: Download maps and travel guides to your devices for o\ufb04ine use.",
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Consider bringing a portable Wi-Fi hotspot for reliable internet access.",
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": " \u2022 \nAirbus Factory Tours: Visit the Airbus factory for a fascinating tour of one of the \nworld's leading aircraft manufacturers. \u2022 \nAeroscopia Museum: Explore the history of aviation at the Aeroscopia Museum, which \nfeatures a collection of historic aircraft.",
+            "page_number": 9
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": " \u2022 \nBest Time to Visit: The best time to visit the South of France is during the spring (April \nto June) and fall (September to October) when the weather is pleasant, and the tourist \ncrowds are smaller. Learning a few basic French phrases can enhance your travel experience.",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": " \u2022 \nToulouse: Visit Cit\u00e9 de l'Espace for a space-themed science museum with interactive \nexhibits, a planetarium, and a replica of the Mir space station. \u2022 \nDordogne: See ancient cave paintings at prehistoric sites like Lascaux and Rou\ufb03gnac, \nand visit museums dedicated to prehistoric life.",
+            "page_number": 9
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "\u2022 \nN\u00eemes: Visit the Roman amphitheater and learn about ancient Roman history. \u2022 \nArles: Explore the Roman ruins and the Mus\u00e9e de l'Arles Antique, which showcases \nartifacts from the city's past.",
+            "page_number": 9
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": " \u2022 \nCannes, Nice, and Saint-Tropez: Try jet skiing or parasailing for a thrill. \u2022 \nToulon: Dive into the underwater world with scuba diving excursions to explore \nwrecks. \u2022 \nCerb\u00e8re-Banyuls: Visit the marine reserve for an unforgettable diving experience.",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "\u2022 \nLa Ciotat: Try snorkeling in the clear waters around the \u00cele Verte.",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "\u2022 \nH\u00f4tel Les Roches Rouges (Saint-Rapha\u00ebl): A family-friendly hotel located on the \nbeach, o\ufb00ering comfortable rooms, a kids' club, and a variety of water sports. \u2022 \nCh\u00e2teau de Berne (Lorgues): A family-friendly hotel located on a vineyard, o\ufb00ering \nspacious rooms, a kids' club, and a variety of outdoor activities. \u2022 \nH\u00f4tel Le Negresco (Nice): A luxurious family-friendly hotel o\ufb00ering spacious rooms, \nbeautiful gardens, and a variety of activities for children. \u2022 \nH\u00f4tel Martinez (Cannes): A luxu",
+            "page_number": 9
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "\u2022 \nH\u00f4tel Les Roches Rouges (Saint-Rapha\u00ebl): A family-friendly hotel located on the \nbeach, o\ufb00ering comfortable rooms, a kids' club, and a variety of water sports. \u2022 \nCh\u00e2teau de Berne (Lorgues): A family-friendly hotel located on a vineyard, o\ufb00ering \nspacious rooms, a kids' club, and a variety of outdoor activities. \u2022 \nH\u00f4tel Le Negresco (Nice): A luxurious family-friendly hotel o\ufb00ering spacious rooms, \nbeautiful gardens, and a variety of activities for children. \u2022 \nH\u00f4tel Martinez (Cannes): A luxu",
+            "page_number": 9
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "The elegant \ndecor and attentive service ensure a comfortable stay for families. The elegant decor and \nattentive service ensure a comfortable stay for families. The elegant decor and \nattentive service ensure a comfortable stay for families. The elegant \ndecor and attentive service ensure a comfortable stay for families. \u2022 \nH\u00f4tel Le Negresco (Nice): A luxurious family-friendly hotel o\ufb00ering spacious rooms, \nbeautiful gardens, and a variety of activities for children. The elegant decor and \natte",
+            "page_number": 9
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": " \u2022 \nUniversity Influence: Highlight the vibrant student life and the influence of the \nuniversity on the city's culture. \u2022 \nModern Architecture: Mention modern architectural landmarks like the Antigone \ndistrict or the Pierresvives building.",
+            "page_number": 10
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": " \u2022 \nProvence: Learn to prepare traditional dishes like ratatouille and bouillabaisse. \u2022 \nP\u00e9rigord: Join a tru\ufb04e hunting tour followed by a cooking class. \u2022 \nNice: Take a class to master Ni\u00e7oise cuisine, including dishes like salade ni\u00e7oise and \nsocca. \u2022 \nMarseille: Participate in a seafood cooking class to make dishes like bouillabaisse.",
+            "page_number": 5
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "\u2022 \nP\u00e9rigord: Join a tru\ufb04e hunting tour followed by a cooking class. \u2022 \nMarseille: Participate in a seafood cooking class to make dishes like bouillabaisse. \u2022 \nLyon: Discover the secrets of Lyonnaise cuisine with a hands-on cooking class. \u2022 \nSarlat: Join a foie gras workshop and learn to prepare this delicacy.",
+            "page_number": 5
+        }
+    ]
+}
